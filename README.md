@@ -7,6 +7,6 @@
 粘帖到.csproj文件的<project 节点下面. 
 
 然后执行以下命令:
-dotnet restore
-npm install
-dotnet watch run
+dotnet restore <br/>
+npm install <br/>
+dotnet watch run <br/>

@@ -6,7 +6,7 @@
 </ItemGroup>
 粘帖到.csproj文件的<project 节点下面. 
 
-然后执行以下命令:
+然后执行以下命令:<br/>
 dotnet restore <br/>
 npm install <br/>
 dotnet watch run <br/>
